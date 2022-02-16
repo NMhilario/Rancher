@@ -1,0 +1,6 @@
+[SET FILES/PATHS]
+
+mkdir rancher
+cd rancher
+touch docker-compose.yml
+mkdir data
